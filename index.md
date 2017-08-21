@@ -5,4 +5,7 @@ You can use the [editor on GitHub](https://github.com/Ferryworld/Ferryworld.gith
 ### Markdown
 
 ### Alipay donate
-![alipay](images/alipay_collect.png)
+![Alipay collect](images/alipay_collect.png)
+
+### Wechat donate
+![Wechat collect](images/wechat_collect.png)
